@@ -5,3 +5,5 @@ change pwm 1100 -> 1900
 add 2nd button: GRAB PAYLOAD button
 
 button text modify
+
+merge two buttons in one toggle button
