@@ -1,1 +1,3 @@
 30kg button plugin
+
+change pwm 1100 -> 1900
